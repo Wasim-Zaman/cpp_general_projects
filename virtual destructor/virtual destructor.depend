@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1602320964 source:e:\c++ programs\2nd semester\c++project\virtual destructor\main.cpp
+	<iostream>
+	"Example.h"
+
+1602320989 e:\c++ programs\2nd semester\c++project\virtual destructor\example.h
+	<iostream>
+

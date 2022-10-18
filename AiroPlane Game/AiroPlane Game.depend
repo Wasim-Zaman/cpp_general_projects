@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1602015119 source:e:\c++ programs\2nd semester\c++project\airoplane game\main.cpp
+	<iostream>
+	<conio.h>
+
+1602015196 source:e:\c++ programs\2nd semester\c++project\airoplane game\logic.cpp
+

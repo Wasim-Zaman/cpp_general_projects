@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1600675200 source:e:\c++ programs\2nd semester\c++project\stopwatch\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+

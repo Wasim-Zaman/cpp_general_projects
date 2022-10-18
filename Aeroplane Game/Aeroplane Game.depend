@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1602267982 source:e:\c++ programs\2nd semester\c++project\aeroplane game\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<stdlib.h>
+

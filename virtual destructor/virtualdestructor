@@ -1,0 +1,11 @@
+#include "virtualdestructor."
+
+VirtualDestructor::VirtualDestructor()
+{
+    //ctor
+}
+
+VirtualDestructor::~VirtualDestructor()
+{
+    //dtor
+}
